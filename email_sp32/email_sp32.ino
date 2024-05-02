@@ -11,7 +11,7 @@
 
 /* The sign in credentials */
 #define AUTHOR_EMAIL "esptanvir@gmail.com"
-#define AUTHOR_PASSWORD "pzuriybgfqrhetxt"
+#define AUTHOR_PASSWORD "**********"
 
 /* Recipient's email*/
 #define RECIPIENT_EMAIL "shakiltanvir99@gmail.com"
